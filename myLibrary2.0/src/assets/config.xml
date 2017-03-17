@@ -1,0 +1,26 @@
+<data>
+	<stage x="0" y="0">
+		<!--,exactFit ,noBorder , noScale, showAll,-->
+		<scaleMode>exactFit</scaleMode>
+		<!--,fullScreen,fullScreenInteractive,normal,-->
+		<displayState>fullScreenInteractive</displayState>
+	</stage>
+	
+	<defalutSetting id="0" language="cn" />
+	<language>cn</language>
+	
+	<content language="cn">
+		<params id="0" url="assets/cn/主页.swf">
+			<params id="0" url="assets/cn/电力2级界面.swf">
+				<video url="assets/cn/video/dianli.mp4"/>
+			</params>
+		</params>
+	</content>
+	<content language="en">
+		<params id="0" url="assets/en/主页.swf">
+			<params id="0" url="assets/en/电力2级界面.swf">
+				<video url="assets/en/video/dianli.mp4"/>
+			</params>
+		</params>
+	</content>
+</data>
